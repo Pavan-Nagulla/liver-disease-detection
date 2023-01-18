@@ -109,10 +109,3 @@ Here are some related projects
 
 [Medical Insurance Cost](https://github.com/SagarDhandare/Medical-Insurance-Cost-Project)
   
-## Feedback
-
-If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/sagardhandare/)
-
-Please do ⭐ the repository, if you like this.😊
-
-Thank you ❤
